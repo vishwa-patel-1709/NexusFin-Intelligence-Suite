@@ -16,7 +16,7 @@ An enterprise-grade, local AI semantic engine designed for deep financial analys
 * **LLM Engine:** Microsoft Phi-3-mini-4k-instruct (4-bit NF4 quantized)
 
 ## 🚀 Live Demo
-You can access the live application here: [NexusFin Intelligence Suite](https://ball-pct-burning-shuttle.trycloudflare.com)
+You can access the live application here: [NexusFin Intelligence Suite](https://hygiene-oops-correspondence-charlotte.trycloudflare.com/)
 
 ## 💡 Overview
 NexusFin Intelligence Suite is a transformative AI-powered semantic analytics and multi-document financial extraction engine designed to process SEC Form 10-Ks, annual reports, and quarterly earnings statements.
