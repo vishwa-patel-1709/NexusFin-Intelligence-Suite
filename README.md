@@ -15,8 +15,8 @@ An enterprise-grade, local AI semantic engine designed for deep financial analys
 * **Embeddings:** HuggingFace (`sentence-transformers/all-MiniLM-L6-v2`)
 * **LLM Engine:** Microsoft Phi-3-mini-4k-instruct (4-bit NF4 quantized)
 
-## ⚙️ Quick Start Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/vishwa-patel-1709/NexusFin-Intelligence-Suite.git](https://github.com/vishwa-patel-1709/NexusFin-Intelligence-Suite.git)
-   cd NexusFin-Intelligence-Suite
+## 🚀 Live Demo
+You can access the live application here: [NexusFin Intelligence Suite](https://ball-pct-burning-shuttle.trycloudflare.com)
+
+## 💡 Overview
+NexusFin Intelligence Suite is a transformative AI-powered semantic analytics and multi-document financial extraction engine designed to process SEC Form 10-Ks, annual reports, and quarterly earnings statements.
